@@ -1,0 +1,28 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+/* custom color  */
+.custom_bg_color{
+    background-color: #026549 !important;
+}
+li.nav-item {
+    border-right: 1px solid #000 !important;
+    padding: 5px 0;
+}
+.nav-link{
+    font-size: 15px !important;
+    color: #fff !important;  
+}
+li.nav-item:first-child{
+    border-left: 1px solid #000 !important;
+}
+.navbar-brand {
+    
+    color: #fff !important;
+    margin: 0 !important;
+    padding-right: 5px;
+}
+i.fa-solid.fa-house{
+    font-size: 30px !important;
+}
