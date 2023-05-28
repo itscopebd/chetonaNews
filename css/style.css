@@ -9,6 +9,11 @@
 li.nav-item {
     border-right: 1px solid #000 !important;
     padding: 5px 0;
+    transition: .5s;
+}
+li.nav-item:hover{
+    background-color: #EB2F2A !important;
+    transition: .5s;
 }
 .nav-link{
     font-size: 15px !important;
